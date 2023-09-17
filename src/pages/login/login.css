@@ -1,0 +1,16 @@
+/* Add this to your CSS file */
+.loginContainer header {
+    justify-content: space-between;
+    box-shadow: none;
+    border: 1px solid #cfc6c6;
+}
+
+.loginContainer .appToolbar {
+    justify-content: center;
+}
+
+.loginContainer .textInput input {
+    text-align: left;
+    color: #888888;
+    font-weight: 500;
+}
